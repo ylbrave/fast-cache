@@ -1,5 +1,5 @@
 {
-  "name": "fast-cache",
+  "name": "fast-cache-npmyl",
   "version": "0.0.1",
   "description": "短小精悍的前端缓存工具，防止内存泄露“",
   "main": "src/index.js",
@@ -30,6 +30,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "babel-loader": "^7.1.5"
+    "babel-loader": "^7.1.5",
+    "user": "0.0.0"
   }
 }
